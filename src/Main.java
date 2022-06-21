@@ -8,11 +8,11 @@ public class Main {
 // changeValue(value);
 // System.out.println(value);
 //    }
-//
+
 // private static void changeValue(Integer localValue) {
 // localValue = 22;
 // System.out.println("Hello world!");
-//
+
 //    }
  /* public static void main(String[] args) {
  Integer[] value = {3, 4};
@@ -33,9 +33,10 @@ public class Main {
   localValue.setName ("ilya");
   localValue.setSuname ("Lagytenko");
      }*/
-    private static void (Person) {
+    private static void (Person){
         Thread localValue = null;
         localValue.setName("ilya");
         localValue.setSuname("Lagytenko");
+
     }
 }
